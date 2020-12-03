@@ -38497,7 +38497,7 @@ MonoBehaviour:
   fireBallBlue: {fileID: 9140569584041072334, guid: d4ad1bb6fef41544b9481605b88c1c48,
     type: 3}
   spawnPoint: {fileID: 919540396}
-  startTime: 20
+  startTime: 5
   spawnTime: 5
   numPro: 5
   redBlue: 1
